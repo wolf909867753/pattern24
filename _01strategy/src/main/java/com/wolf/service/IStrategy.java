@@ -1,7 +1,7 @@
 package com.wolf.service;
 
 /**
- * @author luwang
+ * @author wolf
  * @ProjectName pattern24
  * @Description: 锦囊妙计接口
  * @date 2019/04/01 10:26

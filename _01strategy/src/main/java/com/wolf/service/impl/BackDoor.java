@@ -3,7 +3,7 @@ package com.wolf.service.impl;
 import com.wolf.service.IStrategy;
 
 /**
- * @author luwang
+ * @author wolf
  * @ProjectName pattern24
  * @Description:
  * @date 2019/04/01 10:28
